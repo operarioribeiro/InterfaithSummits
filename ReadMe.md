@@ -8,4 +8,6 @@
 
 ![image](https://github.com/operarioribeiro/InterfaithSummits/blob/main/1893.%20Parliament%20of%20World's%20Religions%20(PoWR)%20Summit.jpg).
 
+## Open License:
+
 © Licensed under [Nonviolent Nonprofit Open Education License (NNOEL)](https://dx.doi.org/10.17504/protocols.io.bp2l6zkbzgqe/v1).
