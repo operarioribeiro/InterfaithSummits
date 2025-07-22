@@ -4,7 +4,7 @@
 
 ## Open Project: 
 
-**Interfaith Summits** is a public domain open heritage curatorship of photos of the most important historical conferences in the field of interfaith diplomacy.
+**Interfaith Summits** is a collaborative public domain open heritage curatorship of photos of the most important historical conferences in the field of interfaith diplomacy. Please send photos that may be missing.
 
 ![image](https://github.com/operarioribeiro/InterfaithSummits/blob/main/1893.%20Parliament%20of%20World's%20Religions%20(PoWR)%20Summit.jpg).
 
