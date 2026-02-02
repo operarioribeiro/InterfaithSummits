@@ -1,4 +1,4 @@
-# [Interfaith Summits](https://operarioribeiro.gitbook.com/InterfaithSummits)
+# [Interfaith Summits](https://github.com/operarioribeiro/InterfaithSummits)
 
 > _"Everyone has the right to freedom of thought, conscience, and religion or belief." United Nations (UN) Universal Declaration of the Human Rights (UDHR) Article 18th_
 
